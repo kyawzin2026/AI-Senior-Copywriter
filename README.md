@@ -9,3 +9,4 @@
   <a href="https://aistudio.google.com/apps">Start building</a>
 
 </div>
+Integrate image generation capabilities into the application. Suggest that the AI can now generate relevant images for the content, perhaps using a placeholder image generation feature for articles.
